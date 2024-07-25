@@ -1,2 +1,2 @@
-# Stock_sentiment_ML
-Stock market
+# stock_sentiment_ml_project
+Takes input text and gives output summary,sentiment
